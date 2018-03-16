@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Input</string>
+
+    <string-array name="labels_arrays_agama">
+        <item>Hindu</item>
+        <item>Islam</item>
+        <item>Kristem</item>
+        <item>Konghucu</item>
+        <item>Buddha</item>
+    </string-array>
+
+</resources>
